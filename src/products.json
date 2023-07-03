@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Camisa",
+        "price": 630,
+        "discount":30,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Pantalon",
+        "price": 500, 
+        "discount":30,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Boxer",
+        "price": 100,
+        "discount":30,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Medias",
+        "price": 100,
+        "discount":30,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Camisillas",
+        "price": 50,
+        "discount":30,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Sudaderas",
+        "price": 1005,
+        "discount":30,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Chaquetas",
+        "price": 100,
+        "discount":30,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "name": "Tennis",
+        "price": 100,
+        "discount":30,
+        "url": "https://picsum.photos/180"
+    }
+    
+]

@@ -1,0 +1,34 @@
+.product {
+    background-color: var(--white );
+    width: 220px;
+    padding: 20px 16px;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+}
+
+.product__img {
+    border-radius: 12px;
+    display: block;
+    margin: auto;
+}
+.product__name {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 14px;
+    color: var(--text);   
+}
+.product__details {
+    display: flex;
+    margin-top: 16px;
+    align-items: center;
+    justify-content: space-between;
+    color: var(--text);
+    align-items: center;
+}
+.product__oldPrice {
+    text-decoration: line-through;
+}
+.product__price {
+    font-weight: bold;
+}
